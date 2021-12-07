@@ -5,4 +5,4 @@
       registerWithEureka: true
       fetchRegistry: true
       serviceUrl:
-        defaultZone: http://localhost:8761/eureka/
+        defaultZone: http://20.193.246.195:9100/service_registry/
